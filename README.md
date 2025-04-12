@@ -1,1 +1,4 @@
 "Some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned, or negotiated with. Some men just want to watch the world burn." - *Alfred Pennyworth*
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
