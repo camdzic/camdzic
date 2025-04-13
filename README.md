@@ -7,8 +7,8 @@ From: 05 April 2025 - To: 12 April 2025
 
 Total Time: 1 min
 
-TypeScript   0 secs          ██████████████████░░░░░░░   72.19 %
-JSON         0 secs          ███████░░░░░░░░░░░░░░░░░░   27.81 %
+TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.19 %
+JSON         0 secs          ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.81 %
 ```
 
 <!--END_SECTION:waka-->
