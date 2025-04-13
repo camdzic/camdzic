@@ -2,7 +2,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 05 April 2025 - To: 12 April 2025
 
 Total Time: 1 min
